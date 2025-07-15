@@ -85,7 +85,8 @@ PRODUCT_PACKAGES += \
     audio_policy.stub
 
 PRODUCT_PACKAGES += \
-    XiaomiDolby
+    XiaomiDolby \
+    libshim_dolby
 
 PRODUCT_PACKAGES += \
     MtkInCallService
